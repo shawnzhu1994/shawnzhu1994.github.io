@@ -12,8 +12,6 @@ I am currently pursuing my Ph.D. as a fourth-year candidate at Northeastern Univ
 
 You can find my CV here: [ShaotongZhu's Curriculum Vitae](../assets/CV_Shaotong_Zhu_2024.pdf).
 
-[Email](zhu.shaot@northeastern.edu) / [Github](https://github.com/shawnzhu1994) / [Wechat](../images/WeChat.jpg) / [LinkedIn](www.linkedin.com/in/shaotong-zhu-1374101bb)
-
 Research Interests
 ======
 
