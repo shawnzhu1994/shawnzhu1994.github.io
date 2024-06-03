@@ -25,4 +25,3 @@ My main interests are in Deep Learning and Computer Vision, specifically:
 
 
 
-
