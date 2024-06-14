@@ -1,7 +1,7 @@
 ---
 title: "Graph-based Recurrence Quantification Analysis of EEG Spectral Dynamics for Motor Imagery-based BCIs"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/Graph-based_Recurrence_Quantification_Analysis_of_EEG_Spectral_Dynamics_for_Motor_Imagery-based_BCIs
 date: 2021-11-01
 venue: '2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
 citation: 'Hosni, S. M. I., Borgheai, S. B., McLinden, J., Zhu, S., Huang, X., Ostadabbas, S., & Shahriari, Y. (2021, November). Graph-based recurrence quantification analysis of EEG spectral dynamics for motor imagery-based BCIs. In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 6453-6457). IEEE.'
