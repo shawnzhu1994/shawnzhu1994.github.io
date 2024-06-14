@@ -2,6 +2,7 @@
 title: "Graph-based Recurrence Quantification Analysis of EEG Spectral Dynamics for Motor Imagery-based BCIs"
 collection: publications
 permalink: /publication/Graph-based_Recurrence_Quantification_Analysis_of_EEG_Spectral_Dynamics_for_Motor_Imagery-based_BCIs
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-11-01
 venue: '2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
 paperurl: 'http://academicpages.github.io/files/Graph-based_Recurrence_Quantification_Analysis_of_EEG_Spectral_Dynamics_for_Motor_Imagery-based_BCIs.pdf'
