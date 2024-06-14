@@ -12,6 +12,12 @@ I am currently pursuing my Ph.D. as a fourth-year candidate at Northeastern Univ
 
 You can find my CV here: [ShaotongZhu's Curriculum Vitae](../assets/CV_Shaotong_Zhu_2024.pdf).
 
+Education
+======
+* Ph.D in Electrical & Computer Engineering, Northeastern University, 2025 (expected)
+* M.S. in Electrical & Computer Engineering, George Washington University, 2019
+* B.S. in Electrical & Computer Engineering, Harbin Institute of Technology, 2017
+
 Research Interests
 ======
 
@@ -21,5 +27,10 @@ My main interests are in Deep Learning and Computer Vision, specifically:
 - Video Understanding and Segmentation
 - Human Facial and Body Pose Estimation
 
+Technical & Theoretical Skills
+======
+* Computer Vision and Signal/Image Processing
+* Machine Learning and Artificial Intelligence
+* Programming: Python, Java, MATLAB, C/C++
 
 
