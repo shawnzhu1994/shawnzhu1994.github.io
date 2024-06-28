@@ -2,7 +2,7 @@
 title: "A Bayesian Dynamical Approach for Human Action Recognition"
 collection: publications
 permalink: /publication/A Bayesian Dynamical Approach for Human Action Recognition
-excerpt: ''
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 date: 2021-08-16
 venue: 'Sensors'
 paperurl: 'http://academicpages.github.io/files/A Bayesian Dynamical Approach for Human Action Recognition.pdf'
