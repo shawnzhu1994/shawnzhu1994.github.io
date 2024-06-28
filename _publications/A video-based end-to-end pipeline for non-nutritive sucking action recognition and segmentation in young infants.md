@@ -1,0 +1,12 @@
+---
+title: "A video-based end-to-end pipeline for non-nutritive sucking action recognition and segmentation in young infants"
+collection: publications
+permalink: /publication/A video-based end-to-end pipeline for non-nutritive sucking action recognition and segmentation in young infants
+excerpt: ''
+date: 2023-10-01
+venue: ' Medical Image Computing and Computer Assisted Intervention – MICCAI 2023'
+paperurl: 'http://academicpages.github.io/files/A video-based end-to-end pipeline for non-nutritive sucking action recognition and segmentation in young infants.pdf'
+citation: 'Zhu, S., Wan, M., Hatamimajoumerd, E., Jain, K., Zlota, S., Kamath, C. V., ... & Ostadabbas, S. (2023, October). A video-based end-to-end pipeline for non-nutritive sucking action recognition and segmentation in young infants. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 586-595). Cham: Springer Nature Switzerland.'
+---
+
+We present an end-to-end computer vision pipeline to detect non-nutritive sucking (NNS)—an infant sucking pattern with no nutrition delivered—as a potential biomarker for developmental delays, using off-the-shelf baby monitor video footage. One barrier to clinical (or algorithmic) assessment of NNS stems from its sparsity, requiring experts to wade through hours of footage to find minutes of the relevant activity. Our NNS activity segmentation algorithm tackles this problem by identifying periods of NNS with high certainty—up to 94.0% average precision and 84.9% average recall across 30 heterogeneous 60 s clips, drawn from our manually annotated NNS clinical in-crib dataset of 183 h of overnight baby monitor footage from 19 infants. Our method is based on an underlying NNS action recognition algorithm, which uses spatiotemporal deep learning networks and infant-specific pose estimation, achieving 94.9% accuracy in binary classification of 960 2.5 s balanced NNS vs. non-NNS clips. Tested on our second, independent, and public NNS in-the-wild dataset, NNS recognition classification reaches 92.3% accuracy, and NNS segmentation achieves 90.8% precision and 84.2% recall. Our code and the manually annotated NNS in-the-wild dataset can be found at https://github.com/ostadabbas/NNS-Detection-and-Segmentation. Supported by MathWorks and NSF-CAREER Grant #2143882.

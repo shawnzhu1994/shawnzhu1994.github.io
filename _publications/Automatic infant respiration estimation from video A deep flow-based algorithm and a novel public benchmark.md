@@ -1,0 +1,12 @@
+---
+title: "Automatic infant respiration estimation from video: A deep flow-based algorithm and a novel public benchmark"
+collection: publications
+permalink: /publication/Automatic infant respiration estimation from video A deep flow-based algorithm and a novel public benchmark
+excerpt: ''
+date: 2023-10-12
+venue: 'International Workshop on Preterm, Perinatal and Paediatric Image Analysis'
+paperurl: 'http://academicpages.github.io/files/Automatic infant respiration estimation from video A deep flow-based algorithm and a novel public benchmark.pdf'
+citation: 'Manne, S. K. R., Zhu, S., Ostadabbas, S., & Wan, M. (2023, October). Automatic infant respiration estimation from video: A deep flow-based algorithm and a novel public benchmark. In International Workshop on Preterm, Perinatal and Paediatric Image Analysis (pp. 111-120). Cham: Springer Nature Switzerland.'
+---
+
+Respiration is a critical vital sign for infants, and continuous respiratory monitoring is particularly important for newborns. However, neonates are sensitive and contact-based sensors present challenges in comfort, hygiene, and skin health, especially for preterm babies. As a step toward fully automatic, continuous, and contactless respiratory monitoring, we develop a deep-learning method for estimating respiratory rate and waveform from plain video footage in natural settings. Our automated infant respiration flow-based network (AIRFlowNet) combines video-extracted optical flow input and spatiotemporal convolutional processing tuned to the infant domain. We support our model with the first public annotated infant respiration dataset with 125 videos (AIR-125), drawn from eight infant subjects, set varied pose, lighting, and camera conditions. We include manual respiration annotations and optimize AIRFlowNet training on them using a novel spectral bandpass loss function. When trained and tested on the AIR-125 infant data, our method significantly outperforms other state-of-the-art methods in respiratory rate estimation, achieving a mean absolute error of 2.9 breaths per minute, compared to 4.7–6.2 for other public models designed for adult subjects and more uniform environments. (Our code and the manually annotated respiration (AIR-125) dataset can be found at https://github.com/ostadabbas/Infant-Respiration-Estimation. Supported by MathWorks and NSF-CAREER Grant #2143882.)

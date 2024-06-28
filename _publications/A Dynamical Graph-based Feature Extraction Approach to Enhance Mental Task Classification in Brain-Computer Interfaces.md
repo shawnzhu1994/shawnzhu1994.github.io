@@ -1,0 +1,13 @@
+---
+title: "A Dynamical Graph-based Feature Extraction Approach to Enhance Mental Task Classification in Brain-Computer Interfaces"
+collection: publications
+permalink: /publication/A Dynamical Graph-based Feature Extraction Approach to Enhance Mental Task Classification in Brain-Computer Interfaces
+excerpt: ''
+date: 2022-12-27
+venue: 'Computers in Biology and Medicine'
+paperurl: 'http://academicpages.github.io/files/A Dynamical Graph-based Feature Extraction Approach to Enhance Mental Task Classification in Brain-Computer Interfaces.pdf'
+citation: 'Zhu, S., Hosni, S. I., Huang, X., Wan, M., Borgheai, S. B., McLinden, J., ... & Ostadabbas, S. (2023). A dynamical graph-based feature extraction approach to enhance mental task classification in brain–computer interfaces. Computers in biology and medicine, 153, 106498.'
+---
+
+
+Graph theoretic approaches in analyzing spatiotemporal dynamics of brain activities are under-studied but could be very promising directions in developing effective brain–computer interfaces (BCIs). Many existing BCI systems use electroencephalogram (EEG) signals to record and decode human neural activities noninvasively. Often, however, the features extracted from the EEG signals ignore the topological information hidden in the EEG temporal dynamics. Moreover, existing graph theoretic approaches are mostly used to reveal the topological patterns of brain functional networks based on synchronization between signals from distinctive spatial regions, instead of interdependence between states at different timestamps. In this study, we present a robust fold-wise hyperparameter optimization framework utilizing a series of conventional graph-based measurements combined with spectral graph features and investigate its discriminative performance on classification of a designed mental task in 6 participants with amyotrophic lateral sclerosis (ALS). Across all of our participants, we reached an average accuracy of 71. 1%±4. 5% for mental task classification by combining the global graph-based measurements and the spectral graph features, higher than the conventional non-graph based feature performance (67. 1%±7. 5%). Compared to using either one of the graphic features (66. 3%±6. 5% for the eigenvalues and 65. 9%±5. 2% for the global graph features), our feature combination strategy shows considerable improvement in both accuracy and robustness performance. Our results indicate the feasibility and advantage of the presented fold-wise optimization framework utilizing graph-based features in BCI systems targeted at end-users.

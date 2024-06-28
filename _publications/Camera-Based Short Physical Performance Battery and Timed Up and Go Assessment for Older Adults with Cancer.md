@@ -1,0 +1,12 @@
+---
+title: "Camera-Based Short Physical Performance Battery and Timed Up and Go Assessment for Older Adults with Cancer"
+collection: publications
+permalink: /publication/Camera-Based Short Physical Performance Battery and Timed Up and Go Assessment for Older Adults with Cancer
+excerpt: ''
+date: 2023-03-06
+venue: 'IEEE Transactions on Biomedical Engineering, 2023'
+paperurl: 'http://academicpages.github.io/files/Camera-Based Short Physical Performance Battery and Timed Up and Go Assessment for Older Adults with Cancer.pdf'
+citation: 'Duncan, L., Zhu, S., Pergolotti, M., Giri, S., Salsabili, H., Faezipour, M., ... & Mirbozorgi, S. A. (2023). Camera-Based Short Physical Performance Battery and Timed Up and Go Assessment for Older Adults with Cancer. IEEE Transactions on Biomedical Engineering.'
+---
+
+This paper presents an automatic camera-based device to monitor and evaluate the gait speed, standing balance, and 5 times sit-stand (5TSS) tests of the Short Physical Performance Battery (SPPB) and the Timed Up and Go (TUG) test. The proposed design measures and calculates the parameters of the SPPB tests automatically. The SPPB data can be used for physical performance assessment of older patients under cancer treatment. This stand-alone device has a Raspberry Pi (RPi) computer, three cameras, and two DC motors. The left and right cameras are used for gait speed tests. The center camera is used for standing balance, 5TSS, and TUG tests and for angle positioning of the camera platform toward the subject using DC motors by turning the camera left/right and tilting it up/down. The key algorithm for operating the proposed system is developed using Channel and Spatial Reliability Tracking in the cv2 module in Python. Graphical User Interfaces (GUIs) in the RPi are developed to run tests and adjust cameras, controlled remotely via smartphone and its Wi-Fi hotspot. We have tested the implemented camera setup prototype and extracted all SPPB and TUG parameters by conducting several experiments on a human subject population of 8 volunteers (male and female, light and dark complexions) in 69 test runs. The measured data and calculated outputs of the system consist of tests of gait speed (0.041 to 1.92 m/s with average accuracy of >95%), and standing balance, 5TSS, TUG, all with average time accuracy of >97%.
